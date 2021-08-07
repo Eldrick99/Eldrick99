@@ -6,7 +6,9 @@
  ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Eldrick99&bg_color=30,552586,904e95&title_color=fff&text_color=fff)
 
 
-  ## Follow Me!
-  On codepen!..   https://codepen.io/EldCoder
-  See my Glitch!..
+  ## Around The Web! 🌎
+  Codepen!..   https://codepen.io/EldCoder
+  <br></br>
+  Glitch!..    https://glitch.com/@Eldrick99
+  
 
